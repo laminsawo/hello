@@ -1,0 +1,1 @@
+print("your name is {0:20.2f} and my name is {1:d}".format(10, 30))
